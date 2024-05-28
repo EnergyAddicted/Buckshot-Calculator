@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bfosh\\Documents\\GitHub\\Buckshot-Calculator\\Buckshot Brain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F41CBB-2530-4AF4-B3B2-302BE2BDA2B1}|Buckshot Brain\\Buckshot Brain.csproj|c:\\users\\bfosh\\documents\\github\\buckshot-calculator\\buckshot brain\\buckshot brain\\buckshot_brain_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F41CBB-2530-4AF4-B3B2-302BE2BDA2B1}|Buckshot Brain\\Buckshot Brain.csproj|solutionrelative:buckshot brain\\buckshot_brain_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buckshot_Brain_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bfosh\\Documents\\GitHub\\Buckshot-Calculator\\Buckshot Brain\\Buckshot Brain\\Buckshot_Brain_Form.cs",
+              "RelativeDocumentMoniker": "Buckshot Brain\\Buckshot_Brain_Form.cs",
+              "ToolTip": "C:\\Users\\bfosh\\Documents\\GitHub\\Buckshot-Calculator\\Buckshot Brain\\Buckshot Brain\\Buckshot_Brain_Form.cs [Design]",
+              "RelativeToolTip": "Buckshot Brain\\Buckshot_Brain_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:26:06.538Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
